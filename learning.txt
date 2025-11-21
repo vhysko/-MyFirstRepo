@@ -1,0 +1,2 @@
+What i have learned in this course
+I have leanred how to create branches, repositories, pull request, merging files, comitting files and changes on he terminal
